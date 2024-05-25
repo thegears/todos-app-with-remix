@@ -1,3 +1,1 @@
-A basic todo app with Remix framework
-On backend i used geardb
-On frontend tailwind and DaisyUI
+Todo app on Remix with GearDB, Tailwind, DaisyUI
